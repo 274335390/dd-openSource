@@ -4,12 +4,12 @@
 
 | 项目 | 说明 | 演示 / 源码 |
 | --- | --- | --- |
-| 东东下载 | X / Twitter 视频、图片、GIF 下载与 MP3 提取 | [在线使用](https://x.dd-oss.com/) · [源码](https://github.com/274335390/x-download) |
+| 东东下载 | X / Twitter、Instagram 视频与图片下载，支持 GIF 转换和 MP3 提取 | [在线使用](https://x.dd-oss.com/) · [源码](https://github.com/274335390/x-download) |
 | StrideMetric | 离线鞋码换算、品牌尺码参考与个人档案 | [源码与运行说明](https://github.com/274335390/stride-metric) |
 
 每个项目有独立仓库，按需下载即可。
 
-![项目展示](assets/preview.png)
+![东东下载：X / Instagram 下载器](assets/x-download-1.1.0.jpg)
 
 ## 维护首页
 
